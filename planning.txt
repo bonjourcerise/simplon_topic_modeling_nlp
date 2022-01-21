@@ -1,0 +1,8 @@
+Planning
+
+12/01 PM : Veille sur le topic modeling
+13/01 AM/PM : Veille, recherche, EDA, premiers modèles
+14/01 AMP/PM : Test de plusieurs modèles et techniques
+19/01 PM : Test de plusieurs modèles et techniques
+20/01 AM/PM : Choix du modèle, nettoyage des notebooks, app streamlit en local, début des slides de présentation
+21/01 AM : Test word embedding, finition slides de présentation
